@@ -4,7 +4,7 @@ The code currently is using ISS TLE from 2022-03-12. A date and time can be inpu
 
 To run the program (WSL terminal):
 
-1. Change directory so you are in 'Build'
-2. Enter "cmake .."
-3. Enter "make"
-4. Enter "./MyOrbitModel"
+1. `mkdir build`
+2. `cmake ..`
+3. `make`
+4. `./MyOrbitModel`
