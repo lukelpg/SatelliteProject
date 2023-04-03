@@ -1,3 +1,0 @@
-/mnt/c/Users/lukep/QueensWork/SatTeam/Query_Modeling/myOrbitModel/build/_deps/perturb-subbuild/CMakeFiles/perturb-populate.dir
-/mnt/c/Users/lukep/QueensWork/SatTeam/Query_Modeling/myOrbitModel/build/_deps/perturb-subbuild/CMakeFiles/edit_cache.dir
-/mnt/c/Users/lukep/QueensWork/SatTeam/Query_Modeling/myOrbitModel/build/_deps/perturb-subbuild/CMakeFiles/rebuild_cache.dir

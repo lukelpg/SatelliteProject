@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/GettingOrbitModel.dir/model.cpp.o -o GettingOrbitModel  _deps/perturb-build/libperturb.a 

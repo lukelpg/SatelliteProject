@@ -1,2 +1,0 @@
-/usr/bin/ar qc libperturb.a CMakeFiles/perturb.dir/src/perturb.cpp.o CMakeFiles/perturb.dir/src/tle.cpp.o CMakeFiles/perturb.dir/src/sgp4.cpp.o
-/usr/bin/ranlib libperturb.a
